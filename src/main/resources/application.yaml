@@ -1,4 +1,3 @@
-# Push 전에 active 를 test 로 변경
 spring:
   profiles:
     active:
